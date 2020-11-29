@@ -18,10 +18,10 @@ Ejecutar Servidor.py
 ## Prueba integracion
 
 1. Iniciar servidor Express
-  cd Server
+  cd Server  
   node index.js
   
 2. Iniciar emulador android
 3. Iniciar la deteccion en tiempo real
-  cd Detector\DetectorEstanteria
-  python Servidor.py
+  cd Detector\DetectorEstanteria  
+  python Servidor.py  
