@@ -22,6 +22,7 @@ Ejecutar Servidor.py
   node index.js
   
 2. Iniciar emulador android  
+  En el boton flotante poner la url "http://10.0.2.2:3000/data"  
 3. Iniciar la deteccion en tiempo real  
   cd Detector\DetectorEstanteria  
   python Servidor.py  
