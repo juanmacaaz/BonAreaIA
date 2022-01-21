@@ -17,7 +17,7 @@ Ir a BonAreaIA\Detector.
 Instalar dependencias (Requirements.txt)  
 Ejecutar Servidor.py  
 
-## Prueba integracion
+## Prueba integracion 
 
 1. Iniciar servidor Express  
   cd Server  
